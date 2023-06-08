@@ -81,8 +81,8 @@ Javascript, HTML, CSS, Python, C++
 
 ## Screenshots
 
-![App Screenshot](img/sigin.png)
-![App Screenshot](img/a.png)
+![App Screenshot](indx.html/img/sigin.png)
+![App Screenshot](indx.html/img/a.png)
 ![App Screenshot](indx.html/img/b.png)
 ![App Screenshot](indx.html/img/c.png)
 ![App Screenshot](indx.html/img/d.png)
