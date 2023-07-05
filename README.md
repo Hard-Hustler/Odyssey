@@ -108,16 +108,6 @@ Javascript, HTML, CSS, Python, C++
 ![App Screenshot](indx.html/img/x.png)
 ![App Screenshot](indx.html/img/y.png)
 
-
-
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-
 ## Support
 
 For support, email hardikamarwani@gmail.com and join our Instagram handle- https://instagram.com/odyssey_officials?igshid=NTc4MTIwNjQ2YQ== for updates.
